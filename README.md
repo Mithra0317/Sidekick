@@ -1,4 +1,5 @@
 # Sidekick
+
 while True:
     print("Welcome to A Student's Sidekick")
     print("Do you want to calculate your budget (1), planner (2), or grade calculator(3)? If you want to exit, type exit.")
